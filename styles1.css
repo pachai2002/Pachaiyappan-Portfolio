@@ -1,0 +1,14 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    background-image:url(img/computer.webp);
+    background-size:cover;
+    padding: 270px 0 ;
+    background-repeat: no-repeat;
+    
+    
+    
+    
+}
